@@ -1,7 +1,7 @@
-# Columbia Transparancy Series - Polling
-By: Dhrumil Mehta and Janie Velencia
-October 13, 2018
-
+# Columbia Transparancy Series - Polling  
+By: Dhrumil Mehta and Janie Velencia  
+October 13, 2018  
+  
 **This repo is forked from https://github.com/dmil/columbia-transparency-series.**
 
 * [Lesson Plan](https://docs.google.com/document/d/194Vx9OCgIplhFFap_3wL6vbMl_ZzrG-1x-R2_fBMZvY/edit)
