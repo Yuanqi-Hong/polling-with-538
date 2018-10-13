@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+0-hello.ipynb
+1-pvi-stuff.ipynb
+2-polling-analysis.ipynb
+3-election-results.ipynb
