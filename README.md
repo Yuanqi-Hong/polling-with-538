@@ -1,6 +1,7 @@
-# Columbia Transparancy Series - Polling  
+# Transparancy Series - Polling  
 _Dhrumil Mehta, Janie Velencia_  
 _October 13, 2018_  
+_[FiveThirtyEight](https://fivethirtyeight.com/), [Brown Institute](https://brown.columbia.edu/), [Columbia Journalism School](https://journalism.columbia.edu/), [Columbia University](https://www.columbia.edu/)_  
   
 **This repo is forked from https://github.com/dmil/columbia-transparency-series.**
 
